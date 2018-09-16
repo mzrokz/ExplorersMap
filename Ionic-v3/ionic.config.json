@@ -1,0 +1,7 @@
+{
+  "name": "explorers-map",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
